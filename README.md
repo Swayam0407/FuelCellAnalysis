@@ -26,6 +26,10 @@
 | **R2 Score**           | 0.9156     | The proportion of variance in the target variable explained by the model. Values closer to 1 indicate better model fit. |
 
 ![download (1)](https://github.com/user-attachments/assets/b6a0e554-d777-4809-98f1-c88303d0d360)
+- The residual plot shows:
+  1. **Scatterplot (Left):** Residuals (errors) vs. predicted values. Residuals close to zero indicate good predictions, though slight patterns may suggest bias.
+  2. **Histogram (Right):** Residuals are roughly normally distributed, centered around zero.
+  3. **Performance:** High R2 values (Train: 0.918, Test: 0.913) indicate the model explains most of the variance and generalizes well.
 ---
 
 # Code-flow
