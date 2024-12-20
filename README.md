@@ -2,7 +2,7 @@
 
 ## My Roll Number:
 - **Roll Number:** 102203781
-- **Target Used:** Target2 
+- **Target Used:** Target2 (Roll Numbers ending with 1 or 6)
 
 ---
 
@@ -17,13 +17,16 @@
    - **Linear Regression** was chosen as the best model based on its performance.
 
 ### 3. **Model Evaluation:**
-   - **Mean Absolute Error (MAE):** 0.125 (average error of 0.125 units).
-   - **Mean Squared Error (MSE):** 0.0248 (indicates minimal large prediction errors).
-   - **Root Mean Squared Error (RMSE):** 0.1576 (error of 0.16 units, showing good accuracy).
-   - **R2 Score:** 0.9156 (model explains **91.56%** of the variance in the target data).
+
+| Metric                | Value      | Pre-requisite Definition                                                                                 |
+|-----------------------|------------|-----------------------------------------------------------------------------------------------------------|
+| **Mean Absolute Error (MAE)** | 0.125      | Measures the average absolute difference between predicted and actual values. Lower MAE indicates better accuracy. |
+| **Mean Squared Error (MSE)**  | 0.0248     | Measures the average squared difference between predicted and actual values. Smaller MSE indicates fewer large errors. |
+| **Root Mean Squared Error (RMSE)** | 0.1576     | The square root of MSE, giving the error in the original units of the target variable. Lower RMSE indicates better model accuracy. |
+| **R2 Score**           | 0.9156     | The proportion of variance in the target variable explained by the model. Values closer to 1 indicate better model fit. |
 
 ---
 
 ## Conclusion:
 - The **Linear Regression** model performed well with an **R2 score of 0.9156** and relatively low error metrics.
-- The model provides accurate and reliable predictions with a high degree of accuracy, making it the best model after comparison using **PyCaret**.
+- The model provides accurate and reliable predictions, making it the best model after comparison using **PyCaret**.
