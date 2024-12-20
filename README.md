@@ -27,6 +27,32 @@
 
 ---
 
+# Code-flow
+
+## 1. **Install and Import Libraries**
+
+## 2. **Load and Display Data**
+
+## 3. **Set up the Regression Environment**
+
+## 4. **Model Comparison**
+
+## 5. **Finalizing Models**
+
+## 6. **Make Predictions**
+
+## 7. **Model Saving**
+
+## 8. **Load and Predict**
+
+## 9. **Metrics Calculation**
+
+## 10. **Plot Residuals**
+
+## 11. **Download Model**
+
+---
+
 ## Conclusion:
 - The **Linear Regression** model performed well with an **R2 score of 0.9156** and relatively low error metrics.
 - The model provides accurate and reliable predictions, making it the best model after comparison using **PyCaret**.
