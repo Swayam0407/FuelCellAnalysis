@@ -2,7 +2,7 @@
 
 ## My Roll Number:
 - **Roll Number:** 102203781
-- **Target Used:** Target2 (Roll Numbers ending with 1 or 6)
+- **Target Used:** Target2
 
 ---
 
