@@ -56,3 +56,6 @@
 ## Conclusion:
 - The **Linear Regression** model performed well with an **R2 score of 0.9156** and relatively low error metrics.
 - The model provides accurate and reliable predictions, making it the best model after comparison using **PyCaret**.
+
+![download (1)](https://github.com/user-attachments/assets/b6a0e554-d777-4809-98f1-c88303d0d360)
+
