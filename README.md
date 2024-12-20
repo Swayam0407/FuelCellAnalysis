@@ -29,27 +29,27 @@
 
 # Code-flow
 
-## 1. **Install and Import Libraries**
+1. **Install and Import Libraries**
 
-## 2. **Load and Display Data**
+2. **Load and Display Data**
 
-## 3. **Set up the Regression Environment**
+3. **Set up the Regression Environment**
 
-## 4. **Model Comparison**
+4. **Model Comparison**
 
-## 5. **Finalizing Models**
+5. **Finalizing Models**
 
-## 6. **Make Predictions**
+6. **Make Predictions**
 
-## 7. **Model Saving**
+7. **Model Saving**
 
-## 8. **Load and Predict**
+8. **Load and Predict**
 
-## 9. **Metrics Calculation**
+9. **Metrics Calculation**
 
-## 10. **Plot Residuals**
+10. **Plot Residuals**
 
-## 11. **Download Model**
+11. **Download Model**
 
 ---
 
