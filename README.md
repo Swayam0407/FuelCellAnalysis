@@ -25,6 +25,7 @@
 | **Root Mean Squared Error (RMSE)** | 0.1576     | The square root of MSE, giving the error in the original units of the target variable. Lower RMSE indicates better model accuracy. |
 | **R2 Score**           | 0.9156     | The proportion of variance in the target variable explained by the model. Values closer to 1 indicate better model fit. |
 
+![download (1)](https://github.com/user-attachments/assets/b6a0e554-d777-4809-98f1-c88303d0d360)
 ---
 
 # Code-flow
@@ -57,5 +58,5 @@
 - The **Linear Regression** model performed well with an **R2 score of 0.9156** and relatively low error metrics.
 - The model provides accurate and reliable predictions, making it the best model after comparison using **PyCaret**.
 
-![download (1)](https://github.com/user-attachments/assets/b6a0e554-d777-4809-98f1-c88303d0d360)
+
 
